@@ -19,10 +19,7 @@ public class Ejercicio1 {
                 System.out.println(nombre);
                 
             }
-            // hola soy un comentario
-
-            // este es un segundo comentario
-          
+            
             
         }
     }
