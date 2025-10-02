@@ -2,6 +2,7 @@ import java.util.Scanner;
 
 public class Ejercicio1 {
     public static void main(String[] args) {
+
         Scanner sc = new Scanner(System.in);
 
 
@@ -17,10 +18,12 @@ public class Ejercicio1 {
         for ( String nombre : nombres){
             if ( nombre.length() >=3){
                 System.out.println(nombre);
+
+                System.out.println("sofia es la mejor novia del mundo");
                 
             }
             
-            System.out.println("jsjsjsjsjsjsjs");
+            
         }
     }
 }
